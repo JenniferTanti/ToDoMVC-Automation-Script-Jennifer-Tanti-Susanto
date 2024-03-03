@@ -1,3 +1,5 @@
+# ToDoMVC-Automation-Script-Jennifer-Tanti-Susanto
+
 This is how to run Automation Test Script:
 1. Open Visual Studio Code Program
 2. Make sure to install Selenium Webdriver and Mocha first. (Already available in node_modules)
